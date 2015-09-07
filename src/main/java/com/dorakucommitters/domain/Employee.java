@@ -18,6 +18,6 @@ public class Employee {
     @Id
     @GeneratedValue
     private Integer id;
-    private String firstName;
-    private String lastName;
+    private String userName;
+    private String passWord;
 }
